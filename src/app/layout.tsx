@@ -31,7 +31,7 @@ const RootLayout = async ({
         <Header user={user} categorySelector={<HeaderCategorySelector />} />
         <Script
           src="https://cloud.umami.is/script.js"
-          data-website-id="(YOUR UMAMI WEBSITE ID)"
+          data-website-id="ca968030-8ede-4115-9109-1393886bbb39"
           strategy="beforeInteractive"
         />
 
